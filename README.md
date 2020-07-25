@@ -1,6 +1,6 @@
 # refactoring-for-accessibility
 
-![badmath](https://img.shields.io/github/languages/top/clarissareeve/refactoring-for-accessibility)
+![top_language](https://img.shields.io/github/languages/top/clarissareeve/refactoring-for-accessibility) ![languages](https://img.shields.io/github/languages/count/clarissareeve/refactoring-for-accessibility)
 
 Link to live site: [Refactoring for accessibility](https://clarissareeve.github.io/refactoring-for-accessibility/)
 
